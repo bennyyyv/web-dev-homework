@@ -1,0 +1,22 @@
+body {
+  background-color: rgba(131, 64, 64);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+.text {
+  background-color: white;
+  color: rgba(131, 64, 64);
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
